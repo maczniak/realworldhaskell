@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us"><title type="html">Real World Haskell: recent comments</title><link href="http://book.realworldhaskell.org/feeds/comments/" rel="alternate"></link><link href="http://book.realworldhaskell.org/feeds/comments/using-databases/" rel="self"></link><id>http://book.realworldhaskell.org/feeds/comments/</id><updated>2016-11-07T08:54:54Z</updated><author><name>Our readers</name></author><subtitle type="html">Recent comments on the text of &amp;#8220;Real World Haskell&amp;#8221;, from our readers</subtitle><entry><title type="html">Comment on &amp;#8220;Typeclasses at work: making JSON easier to use&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/typeclasses.html#x_lz?comment=18593&amp;uuid=f9a83b25958b63221d28" rel="alternate"></link><updated>2016-11-07T08:54:54Z</updated><author><name>Dnl Grgk</name></author><id>http://book.realworldhaskell.org/read/typeclasses.html#x_lz?comment=18593&amp;uuid=f9a83b25958b63221d28</id><summary type="html">&lt;p&gt;On 2016-11-07,
+      
+	Dnl Grgk
+      
+commented on &amp;#8220;Typeclasses at work: making JSON easier to use&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I would prefer&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Because Haskell doesn&amp;#39;t natively support lists that contain [values of] different types, ...&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;instead of&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;Because Haskell doesn&amp;#39;t natively support lists that contain types of different value, ...&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/typeclasses.html#x_lz?comment=18593&amp;uuid=f9a83b25958b63221d28"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Automatic Derivation&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/typeclasses.html#AutomaticDerivation.hs:CannotShow?comment=18592&amp;uuid=636f18f111a5452f1a07" rel="alternate"></link><updated>2016-11-07T08:34:32Z</updated><author><name>Dnl Grgk</name></author><id>http://book.realworldhaskell.org/read/typeclasses.html#AutomaticDerivation.hs:CannotShow?comment=18592&amp;uuid=636f18f111a5452f1a07</id><summary type="html">&lt;p&gt;On 2016-11-07,
+      
+	Dnl Grgk
+      
+commented on &amp;#8220;Automatic Derivation&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;we beg you: pleeeease fix this! pleeeeaaase!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/typeclasses.html#AutomaticDerivation.hs:CannotShow?comment=18592&amp;uuid=636f18f111a5452f1a07"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;The state monad&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/monads.html#x_YZ?comment=18591&amp;uuid=d2992997ebf8cdb54c95" rel="alternate"></link><updated>2016-11-05T08:18:28Z</updated><author><name>inspired</name></author><id>http://book.realworldhaskell.org/read/monads.html#x_YZ?comment=18591&amp;uuid=d2992997ebf8cdb54c95</id><summary type="html">&lt;p&gt;On 2016-11-05,
+      
+	inspired
+      
+commented on &amp;#8220;The state monad&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;i&amp;#39;m bookmarking that comment.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/monads.html#x_YZ?comment=18591&amp;uuid=d2992997ebf8cdb54c95"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;The offside rule and white space in an expression&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/deftypes.html#x_F5?comment=18590&amp;uuid=d4545e02ec0339864266" rel="alternate"></link><updated>2016-11-04T17:16:16Z</updated><author><name>Dnl Grgk</name></author><id>http://book.realworldhaskell.org/read/deftypes.html#x_F5?comment=18590&amp;uuid=d4545e02ec0339864266</id><summary type="html">&lt;p&gt;On 2016-11-04,
+      
+	Dnl Grgk
+      
+commented on &amp;#8220;The offside rule and white space in an expression&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=SsoOG6ZeyUI&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/deftypes.html#x_F5?comment=18590&amp;uuid=d4545e02ec0339864266"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Parsing a raw PGM file&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/binary.html#x_GR?comment=18589&amp;uuid=894711eb15a6fc67e638" rel="alternate"></link><updated>2016-11-04T15:15:54Z</updated><author><name>LargestPrime</name></author><id>http://book.realworldhaskell.org/read/binary.html#x_GR?comment=18589&amp;uuid=894711eb15a6fc67e638</id><summary type="html">&lt;p&gt;On 2016-11-04,
+      
+	LargestPrime
+      
+commented on &amp;#8220;Parsing a raw PGM file&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hello from the past... I am sure it wont be fixed even in 15 years from now :D&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/binary.html#x_GR?comment=18589&amp;uuid=894711eb15a6fc67e638"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;How to think about loops&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/fp.html#Map.hs:square?comment=18588&amp;uuid=ba6a88d6025329574101" rel="alternate"></link><updated>2016-11-04T10:07:42Z</updated><author><name>SomeoneNewHere</name></author><id>http://book.realworldhaskell.org/read/fp.html#Map.hs:square?comment=18588&amp;uuid=ba6a88d6025329574101</id><summary type="html">&lt;p&gt;On 2016-11-04,
+      
+	SomeoneNewHere
+      
+commented on &amp;#8220;How to think about loops&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;also, you can use something magic in haskell, list comprehension :&lt;/p&gt;
+
+&lt;p&gt;square list = [ x*x | x &amp;lt;- list ]&lt;br /&gt;-- the square function takes a list, and returns a list that is for each element, that element (that we called x) multiplied by itself.&lt;/p&gt;
+
+&lt;p&gt;or, with the map function (which returns a list that is the list given into argument, passed through the square function) :&lt;/p&gt;
+
+&lt;p&gt;squares = map square list&lt;br /&gt;square x = x*x&lt;br /&gt;-- the “for one number but not a list function”&lt;/p&gt;
+
+&lt;p&gt;or, without writing that function separated (we write it as argument) :&lt;br /&gt;squares = map (\x = x*x) list&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/fp.html#Map.hs:square?comment=18588&amp;uuid=ba6a88d6025329574101"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Putting monads and monad transformers into perspective&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/monadtrans.html#x_zu?comment=18587&amp;uuid=7964e727a25e47376fda" rel="alternate"></link><updated>2016-11-03T09:56:04Z</updated><author><name>Matt</name></author><id>http://book.realworldhaskell.org/read/monadtrans.html#x_zu?comment=18587&amp;uuid=7964e727a25e47376fda</id><summary type="html">&lt;p&gt;On 2016-11-03,
+      
+	Matt
+      
+commented on &amp;#8220;Putting monads and monad transformers into perspective&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;First sentence probably shouldn&amp;#39;t begin with &amp;quot;Finally&amp;quot; when there is still another subsection that follows this one.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/monadtrans.html#x_zu?comment=18587&amp;uuid=7964e727a25e47376fda"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Recursive types&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/deftypes.html#x_ag?comment=18586&amp;uuid=1fa95eb0720eaa4e40c5" rel="alternate"></link><updated>2016-11-03T03:17:51Z</updated><author><name>bloke</name></author><id>http://book.realworldhaskell.org/read/deftypes.html#x_ag?comment=18586&amp;uuid=1fa95eb0720eaa4e40c5</id><summary type="html">&lt;p&gt;On 2016-11-03,
+      
+	bloke
+      
+commented on &amp;#8220;Recursive types&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Should be &amp;quot;a leaf, by definition, has no children&amp;quot;. (not convention)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/deftypes.html#x_ag?comment=18586&amp;uuid=1fa95eb0720eaa4e40c5"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Haskell source files, and writing simple functions&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/funcstypes.html#Assign.hs:assign?comment=18585&amp;uuid=f665c13ab4ce458c5ada" rel="alternate"></link><updated>2016-11-02T16:13:42Z</updated><author><name>SomeoneNewHere</name></author><id>http://book.realworldhaskell.org/read/funcstypes.html#Assign.hs:assign?comment=18585&amp;uuid=f665c13ab4ce458c5ada</id><summary type="html">&lt;p&gt;On 2016-11-02,
+      
+	SomeoneNewHere
+      
+commented on &amp;#8220;Haskell source files, and writing simple functions&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Yeah, in interactive “shell” it is permitted, so you can e.g. try some ways overwrite your errors, but don’t try to compile it.&lt;/p&gt;
+
+&lt;p&gt;think of it as a spreadsheet : you can’t say that the case A1 contains 3 and 10 at the same time, now, you still can overwrite its value manually&lt;/p&gt;
+
+&lt;p&gt;Also, in Haskell, order doesn’t matter, so should it keep first or second value ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/funcstypes.html#Assign.hs:assign?comment=18585&amp;uuid=f665c13ab4ce458c5ada"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Regular expressions in Haskell&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/glob.html#regexp.ghci:bool.passfail?comment=18584&amp;uuid=d447fb4b1cbce879dd8f" rel="alternate"></link><updated>2016-11-01T15:59:53Z</updated><author><name>Florian F</name></author><id>http://book.realworldhaskell.org/read/glob.html#regexp.ghci:bool.passfail?comment=18584&amp;uuid=d447fb4b1cbce879dd8f</id><summary type="html">&lt;p&gt;On 2016-11-01,
+      
+	Florian F
+      
+commented on &amp;#8220;Regular expressions in Haskell&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It doesn&amp;#39;t print the &amp;quot;Loading ...&amp;quot; messages any more.&lt;br /&gt;Or at least not on my installation, GHCi version 8.0.1.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/glob.html#regexp.ghci:bool.passfail?comment=18584&amp;uuid=d447fb4b1cbce879dd8f"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Efficient file processing&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/glob.html#HighestClose.hs:readPrice?comment=18583&amp;uuid=9e1e9afa96c350b2d928" rel="alternate"></link><updated>2016-11-01T15:38:56Z</updated><author><name>Florian F</name></author><id>http://book.realworldhaskell.org/read/glob.html#HighestClose.hs:readPrice?comment=18583&amp;uuid=9e1e9afa96c350b2d928</id><summary type="html">&lt;p&gt;On 2016-11-01,
+      
+	Florian F
+      
+commented on &amp;#8220;Efficient file processing&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If I put 3.1415926535 as first closing price, the program returns Just 1415926835.&lt;/p&gt;
+
+&lt;p&gt;Obviously, when the number of decimals is not exactly 2 it fails miserably.  For instance, It decodes &amp;quot;27.1&amp;quot; as 2701 cents.  An input like &amp;quot;27.1&amp;quot; is very likely to happen some day.&lt;/p&gt;
+
+&lt;p&gt;OK, this is for teaching Haskell, but it would be nice to teach good practices in Haskell as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/glob.html#HighestClose.hs:readPrice?comment=18583&amp;uuid=9e1e9afa96c350b2d928"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Typeclasses at work: making JSON easier to use&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/typeclasses.html#x_tz?comment=18582&amp;uuid=a98f8c63d3077fb41c05" rel="alternate"></link><updated>2016-11-01T15:31:40Z</updated><author><name>Seth</name></author><id>http://book.realworldhaskell.org/read/typeclasses.html#x_tz?comment=18582&amp;uuid=a98f8c63d3077fb41c05</id><summary type="html">&lt;p&gt;On 2016-11-01,
+      
+	Seth
+      
+commented on &amp;#8220;Typeclasses at work: making JSON easier to use&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For what it&amp;#39;s worth, as of this writing I had to use the below to get this module to compile on Haskell Platform.&lt;/p&gt;
+
+&lt;p&gt;{-# LANGUAGE TypeSynonymInstances,FlexibleInstances #-}&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/typeclasses.html#x_tz?comment=18582&amp;uuid=a98f8c63d3077fb41c05"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Lazy I/O&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/io.html#toupper-lazy4.hs:all?comment=18581&amp;uuid=f5f2a6730a551dd324da" rel="alternate"></link><updated>2016-10-29T16:25:05Z</updated><author><name>Florian F</name></author><id>http://book.realworldhaskell.org/read/io.html#toupper-lazy4.hs:all?comment=18581&amp;uuid=f5f2a6730a551dd324da</id><summary type="html">&lt;p&gt;On 2016-10-29,
+      
+	Florian F
+      
+commented on &amp;#8220;Lazy I/O&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;import System.Environment (getArgs)&lt;/p&gt;
+
+&lt;p&gt;main = getArgs &amp;gt;&amp;gt;= cat&lt;/p&gt;
+
+&lt;p&gt;cat [] = interact id&lt;br /&gt;cat fs = mapM readFile fs &amp;gt;&amp;gt;= putStr . concat&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/io.html#toupper-lazy4.hs:all?comment=18581&amp;uuid=f5f2a6730a551dd324da"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;How to think about loops&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/fp.html#x_E9?comment=18580&amp;uuid=67d1cbff4d85cb780008" rel="alternate"></link><updated>2016-10-28T00:47:11Z</updated><author><name>Ryo Harada</name></author><id>http://book.realworldhaskell.org/read/fp.html#x_E9?comment=18580&amp;uuid=67d1cbff4d85cb780008</id><summary type="html">&lt;p&gt;On 2016-10-28,
+      
+	Ryo Harada
+      
+commented on &amp;#8220;How to think about loops&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I think what confuses readers the most in this puzzle is what the hell foldr takes as it&amp;#39;s second parameter, and why it should do so. &lt;br /&gt;This also leads to the unreadability of the right part the first equation, because only few people would expect a function as the return value of the foldr. &lt;br /&gt;Thus, I would like to provide another way to represent the above function for those who are yet to understand it.&lt;/p&gt;
+
+&lt;p&gt;myFoldl f acc xs = (foldr step id xs) acc&lt;br /&gt; where step x g = g.flip f x -- step x g = g.(\a -&amp;gt; f a x)&lt;/p&gt;
+
+&lt;p&gt;I have to agree that using function composition here is not a very good idea, but I clarified that the step function is one that converts a function into another function of the same type accepting an element. &lt;br /&gt;In other words, the step function takes a function as the accumulator and returns a function of the same type as well. That&amp;#39;s why id is passed to foldr in the first equation.&lt;br /&gt;Note that as foldr scans elements from the right most one, it can&amp;#39;t produce the result right away. The best it could do is create a function from all the elements which takes the initial accumulator as its parameter. &lt;br /&gt;My code itself doesn&amp;#39;t look really easy to understand, but I hope my explanation will help.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/fp.html#x_E9?comment=18580&amp;uuid=67d1cbff4d85cb780008"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Conclusion&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/typeclasses.html#x_JN?comment=18579&amp;uuid=4c912e21dd3541fb5802" rel="alternate"></link><updated>2016-10-26T15:15:04Z</updated><author><name>Florian F</name></author><id>http://book.realworldhaskell.org/read/typeclasses.html#x_JN?comment=18579&amp;uuid=4c912e21dd3541fb5802</id><summary type="html">&lt;p&gt;On 2016-10-26,
+      
+	Florian F
+      
+commented on &amp;#8220;Conclusion&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;-1 to MoneyForChange.&lt;br /&gt;These people have spent lots of time and efforts to write this book and offered it for free (or in exchange for constructive comments).  If you feel you are loosing your time reading it you can say so.  But a call for amputation is completely out of place.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/typeclasses.html#x_JN?comment=18579&amp;uuid=4c912e21dd3541fb5802"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;JSON typeclasses without overlapping instances&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/typeclasses.html#x_G11?comment=18578&amp;uuid=7f019def2e73ad932599" rel="alternate"></link><updated>2016-10-26T14:35:18Z</updated><author><name>Florian F</name></author><id>http://book.realworldhaskell.org/read/typeclasses.html#x_G11?comment=18578&amp;uuid=7f019def2e73ad932599</id><summary type="html">&lt;p&gt;On 2016-10-26,
+      
+	Florian F
+      
+commented on &amp;#8220;JSON typeclasses without overlapping instances&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;OK, it is fun to discover that (,) is also an operator, not just an element of syntax.&lt;/p&gt;
+
+&lt;p&gt;But what does it have to do with this chapter?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/typeclasses.html#x_G11?comment=18578&amp;uuid=7f019def2e73ad932599"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;Typeclasses at work: making JSON easier to use&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/typeclasses.html#JSONClass.hs:class?comment=18577&amp;uuid=82f86a7a82b2ba3a441f" rel="alternate"></link><updated>2016-10-26T13:27:52Z</updated><author><name>Florian F</name></author><id>http://book.realworldhaskell.org/read/typeclasses.html#JSONClass.hs:class?comment=18577&amp;uuid=82f86a7a82b2ba3a441f</id><summary type="html">&lt;p&gt;On 2016-10-26,
+      
+	Florian F
+      
+commented on &amp;#8220;Typeclasses at work: making JSON easier to use&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As far as I can tell, JSONClass will end up as a replacement for SimpleJSON.hs.  It will still use JValue until it is redefined in JSONClass.&lt;br /&gt;It would have been nice if you gave some hints of what we are doing.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/typeclasses.html#JSONClass.hs:class?comment=18577&amp;uuid=82f86a7a82b2ba3a441f"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;How to give a type a new identity&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/typeclasses.html#Newtype.hs:newtype?comment=18576&amp;uuid=5f45501ca47b05fd0a64" rel="alternate"></link><updated>2016-10-26T12:32:31Z</updated><author><name>Florian F</name></author><id>http://book.realworldhaskell.org/read/typeclasses.html#Newtype.hs:newtype?comment=18576&amp;uuid=5f45501ca47b05fd0a64</id><summary type="html">&lt;p&gt;On 2016-10-26,
+      
+	Florian F
+      
+commented on &amp;#8220;How to give a type a new identity&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Is it a good idea to use D and N as constructors?  Isn&amp;#39;t there a huge potential that it clashes with other constructors?  Or is it something you do in tutorials but never in the real world?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/typeclasses.html#Newtype.hs:newtype?comment=18576&amp;uuid=5f45501ca47b05fd0a64"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;How to give a type a new identity&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/typeclasses.html#x_T01?comment=18575&amp;uuid=c12c57b2d9a0ed046ad1" rel="alternate"></link><updated>2016-10-26T12:20:57Z</updated><author><name>Florian F</name></author><id>http://book.realworldhaskell.org/read/typeclasses.html#x_T01?comment=18575&amp;uuid=c12c57b2d9a0ed046ad1</id><summary type="html">&lt;p&gt;On 2016-10-26,
+      
+	Florian F
+      
+commented on &amp;#8220;How to give a type a new identity&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Could we write &amp;quot;deriving (Eq, Ord, Show, (+))&amp;quot; to inherit also the additions?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/typeclasses.html#x_T01?comment=18575&amp;uuid=c12c57b2d9a0ed046ad1"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title type="html">Comment on &amp;#8220;How to give a type a new identity&amp;#8221;
+</title><link href="http://book.realworldhaskell.org/read/typeclasses.html#x_EE1?comment=18574&amp;uuid=c1d61d7aa4f6586cd56a" rel="alternate"></link><updated>2016-10-26T12:17:14Z</updated><author><name>Florian F</name></author><id>http://book.realworldhaskell.org/read/typeclasses.html#x_EE1?comment=18574&amp;uuid=c1d61d7aa4f6586cd56a</id><summary type="html">&lt;p&gt;On 2016-10-26,
+      
+	Florian F
+      
+commented on &amp;#8220;How to give a type a new identity&amp;#8221;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I am confused when you say &amp;quot;I am confusing&amp;quot;.  So it is correct after all.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To see this comment in context or to respond, visit &lt;a
+	href="http://book.realworldhaskell.org/read/typeclasses.html#x_EE1?comment=18574&amp;uuid=c1d61d7aa4f6586cd56a"&gt;book.realworldhaskell.org&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>
